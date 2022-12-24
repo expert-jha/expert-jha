@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Govind jha
 - 👀 I’m interested in python and sql
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me expert.govindjha@gmail.com
 
