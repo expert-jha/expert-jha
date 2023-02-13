@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Govind jha
-- 👀 I’m interested in python and sql
+- 👀 I’m interested in exploring new concepts in machine learning.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me expert.govindjha@gmail.com
 
 <!---
